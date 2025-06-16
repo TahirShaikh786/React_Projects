@@ -1,8 +1,8 @@
 import sql from "mssql";
 
 export const dbconfig = {
-  user: "sa",
-  password: "tahir",
+  user: "****",
+  password: "****",
   server: "Tahir",
   database: "Projects",
   options: {
